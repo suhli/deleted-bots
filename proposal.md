@@ -1,20 +1,20 @@
-# 方案
+# 规划方案
 
-## 四个部分
+## 组成部分
 
-### DBOTS-ROBOT
+### ROBOT
 
 机器人逻辑
 
-### DBOTS-LABORER
+### LABORER
 
 后台综合
 
-### DBOTS-FRONTEND
+### FRONTEND
 
 前端
 
-### DBOTS-DICTATOR
+### DICTATOR
 
 管理中心
 
