@@ -5,7 +5,6 @@ import com.alibaba.fastjson.JSONObject;
 import org.deleted.bots.annotation.Configuration;
 import org.deleted.bots.annotation.Plug;
 import org.deleted.bots.core.MessageEventHandle;
-import org.deleted.bots.until.OkHttpClientUtil;
 import org.java_websocket.client.WebSocketClient;
 import org.java_websocket.drafts.Draft_6455;
 import org.java_websocket.handshake.ServerHandshake;

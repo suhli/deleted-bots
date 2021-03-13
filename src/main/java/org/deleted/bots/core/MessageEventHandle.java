@@ -3,7 +3,7 @@ package org.deleted.bots.core;
 import com.alibaba.fastjson.JSONObject;
 import org.deleted.bots.entity.GroupMessageEvent;
 import org.deleted.bots.entity.PrivateMessageEvent;
-import org.deleted.bots.until.MessageUtil;
+import org.deleted.bots.util.MessageUtil;
 
 import java.lang.reflect.Method;
 import java.util.List;

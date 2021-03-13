@@ -1,10 +1,9 @@
 package org.deleted.bots.core;
 
-import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import org.deleted.bots.entity.MessageChain;
-import org.deleted.bots.until.MessageUtil;
-import org.deleted.bots.until.OkHttpClientUtil;
+import org.deleted.bots.util.MessageUtil;
+import org.deleted.bots.util.OkHttpClientUtil;
 
 import java.io.IOException;
 import java.util.List;
