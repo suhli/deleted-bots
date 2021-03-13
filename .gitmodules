@@ -1,4 +1,3 @@
 [submodule "robot"]
 	path = robot
-	url = https://github.com/deleted-bots/Robot
-	branch = main
+	url = git@github.com:deleted-bots/Robot.git
