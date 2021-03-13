@@ -1,4 +1,4 @@
-[submodule "rebot"]
-	path = rebot
+[submodule "robot"]
+	path = robot
 	url = https://github.com/deleted-bots/Robot
 	branch = main
