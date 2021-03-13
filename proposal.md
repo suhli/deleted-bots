@@ -8,7 +8,7 @@
 
 ### DBOTS-LABORER
 
-后台综合/打工人
+后台综合
 
 ### DBOTS-FRONTEND
 
@@ -16,7 +16,7 @@
 
 ### DBOTS-DICTATOR
 
-老大哥
+管理中心
 
 - 掌控全局
 - daemon和cli
